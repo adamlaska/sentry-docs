@@ -1,0 +1,9 @@
+```csharp
+var builder = MauiApp.CreateBuilder()
+    .UseMauiApp<App>()
+    .UseSentry(options =>
+    {
+        options.Dsn = "___PUBLIC_DSN___";
+        options.AttachScreenshot = true;
+    })
+```
