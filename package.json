@@ -79,7 +79,7 @@
     "hastscript": "^8.0.0",
     "image-size": "^1.2.1",
     "js-cookie": "^3.0.5",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.2.0",
     "match-sorter": "^6.3.4",
     "mdast-util-from-markdown": "^2.0.2",
     "mdast-util-to-markdown": "^2.1.2",
